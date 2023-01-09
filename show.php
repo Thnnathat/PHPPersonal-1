@@ -11,6 +11,7 @@
     echo "Name: ".$name."<br>";
     echo "Age: ".$age."<br>";
     echo "Gender: ".$gender."<br>";
+    echo "Married status: ".$married."<br>";
 
     if ($age > 15){
         echo "Old";
